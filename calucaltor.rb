@@ -13,6 +13,7 @@ end
 def manager(function)
     print("number 1:")
     num1=gets.chomp.to_i
+
     print("number 2:")
     num2=gets.chomp.to_i
     reslut=function.call(num1,num2)

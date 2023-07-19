@@ -1,0 +1,29 @@
+wednesday:
+Input and Output -
+Variables -
+Numbers -
+Comments -
+Flow Control -
+Predicates -
+Interactive Ruby (IRB)
+Methods and Arguments
+Return Values
+Math Basics
+Rounding
+Number Formatting
+Math Methods
+
+variables:
+
+
+chmob->which does not the new line into the program
+.to_i to into
+.to_f to float
+comment # anc
+=begin 
+
+=end the whole block word be commented 
+
+Predicates
+odd?
+true
