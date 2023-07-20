@@ -29,7 +29,7 @@ begin
     
     puts "quit"
     
-    print "select (a/b/c/dq):"
+    print "select (a/b/c/d/q):"
     choice=gets.chomp
  
     case choice

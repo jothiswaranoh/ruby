@@ -12,6 +12,20 @@ Math Basics
 Rounding
 Number Formatting
 Math Methods
+Thursday:
+
+String Methods
+String Math and Operations
+String with RegEx
+Filtering and Matching
+Array Basics
+Array Enumeration
+Array Block Methods
+Looping and Iteration
+Ranges
+Hash & Features
+Symbols
+
 
 variables:
 

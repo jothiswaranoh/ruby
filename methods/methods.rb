@@ -17,7 +17,8 @@ puts "top"
 age=98
 name="ramesh"
 sayhi(name,age)
-say
+say(name)
+#sayhi
 hi
 
 puts "bottom"  

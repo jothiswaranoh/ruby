@@ -13,7 +13,7 @@ def rc(num)
 
 end
 
-#puts cube(3)
+puts cube(3)
 # puts rc(3)
 puts rc(3)[0]
 
