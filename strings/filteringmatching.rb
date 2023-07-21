@@ -21,5 +21,5 @@ emails = [
 ]
 
 domain = "example.com"
-matching_emails = emails.select { |email| email.match?(/@#{Regexp.escape(domain)}/) }# doubt need to clear
-puts "Matching emails: #{matching_emails.inspect}"  # Output: Matching emails: ["john@example.com", "info@example.com"]
+matching_emails = emails.select { |email| email.match?(/@example\.com/) }# doubt need to clear
+puts "Matching emails: #{matching_emails.inspect}"  # Output: Matching emails: ["john@example.com", "info@example.com"

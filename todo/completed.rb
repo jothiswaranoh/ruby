@@ -1,12 +1,12 @@
 require 'mysql2'
-require 'io/console'
+
 
 # Database configuration
 db = Mysql2::Client.new(
   host: 'localhost',
-  username: 'root', # Replace with your MySQL username
-  password: '',     # Replace with your MySQL password
-  database: 'todo'  # Replace with your database name
+  username: 'root', #  MySQL username
+  password: '',     # MySQL password
+  database: 'todo'  # database name
 )
 
 # Function to escape single quotes in SQL queries

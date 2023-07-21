@@ -3,8 +3,8 @@ str2 = "world!"
 result = str1 + str2
 puts result  # Output: "Hello, world!"
 
-name = "Arun"
-age = 20
+name = "Gokul"
+age = 12
 message = "My name is #{name} and I am #{age} years old."
 puts message  # Output: "My name is John and I am 30 years old."
 
@@ -25,6 +25,6 @@ puts str.strip      # Output: "Hello, world!"
 puts str.lstrip     # Output: "Hello, world!   "
 puts str.rstrip     # Output: "   Hello, world!"
 
-str = "apple,orange,banana"
+str = "apple,mange,banana"
 arr = str.split(",")  # Output: ["apple", "orange", "banana"]
 puts arr.join(" | ")  # Output: "apple | orange | banana"

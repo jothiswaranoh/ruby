@@ -14,6 +14,7 @@ str = "hello, world! How are you, world?"
 pattern = /world/   # this pattern matches the word "world"
 replacement = "universe"
 new_str = str.gsub(pattern, replacement)
+#gobal substring
 puts new_str  # output: "hello, universe! How are you, universe?"
 
 # xxtracting substrings and  pattern
@@ -27,4 +28,4 @@ pattern = /\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b/   # This pattern 
 # \.=>.
 # [A-Za-z]{2,}=>com
 email_addresses = str.scan(pattern)
-puts email_addresses.inspect  # Output: ["john@example.com", "gokul@example.org"]
+puts email_addresses.inspect  # Output: ["jothis@example.com", "gokul@example.org"]

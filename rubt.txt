@@ -26,7 +26,19 @@ Ranges
 Hash & Features
 Symbols
 
+friday:
 
+
+Object Basics
+Constructors
+Actions
+Instance Variables
+Inspecting Objects
+Working with Time 
+Classes are objects
+Classes are objects & Variable Scope
+Classes are modules with hierarchy
+Blocks, Closures, Binding
 variables:
 
 
@@ -41,3 +53,9 @@ comment # anc
 Predicates
 odd?
 true
+
+
+notes
+
+
+install rvm
